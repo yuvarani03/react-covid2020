@@ -28,7 +28,7 @@ In this lab we will try to work with API's in react. The main idea of this lab i
 
 The main theme behind the lab is to fetch book details and display it for reading. They can like it or dislike it after they have read it. So let's start building it.
 ```API DETAILS
-
+https://api.covid19india.org/
 ```
 Kindly see the output:
 
