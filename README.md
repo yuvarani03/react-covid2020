@@ -4,11 +4,10 @@
 
 ## Learning Goals
 
-In this exercise, the goal is to learn routing and forms in react:
+In this exercise, the goal is to learn api's in react:
 
 - Axios,
 - REST API,
-- GET, POST, PUT & DELETE
 
 ## Getting started
 
@@ -24,7 +23,7 @@ In the end of this document, you will find guidelines on how to submit the exerc
 ## Instructions
 In this lab we will try to work with API's in react. The main idea of this lab is to fetch details from external API, process it and display it. We have three components 
 - HomeComponent
-- SearchComponent
+- StateComponent
 - BookComponent
 
 The main theme behind the lab is to fetch book details and display it for reading. They can like it or dislike it after they have read it. So let's start building it.
