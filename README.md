@@ -30,11 +30,12 @@ The main theme behind the lab is to fetch book details and display it for readin
 ```API DETAILS
 https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest
 ```
-
 Kindly see the output:
+
 ![Image description](https://i1.faceprep.in/ProGrad/l6.coronatracker2.png)
 ![Image description](https://i1.faceprep.in/ProGrad/l6.coronatracker1.png)
 ![Image description](https://i1.faceprep.in/ProGrad/l6.coronatracker3.png)
+
 ### PROGRESSION 1 | GO FETCH AND COME BACK
 
 Fetch the data from the above api and display it in homeComponent. The homeComponent consists of three `div`
