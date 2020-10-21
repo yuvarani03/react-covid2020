@@ -36,29 +36,33 @@ Kindly see the output:
 ![Image description](https://i1.faceprep.in/ProGrad/l6.coronatracker1.png)
 ![Image description](https://i1.faceprep.in/ProGrad/l6.coronatracker3.png)
 
-### PROGRESSION 1 | GO FETCH AND COME BACK
+### PROGRESSION 1 | I AM THE PARENT
 
-Fetch the data from the above api and display it in homeComponent. The homeComponent consists of three `div`
-- Read
-- Like
-- Dislike
+Create a parent component called `HomeComponent` with three child components inside it
+- OverallComponent
+- SearchComponent
+- StateComponent
 
-Based on the user selection you need to move the books to read, like or dislike. You can refer sample output.
+### PROGRESSION 2 | INDIA FIGHTS COVID
+Just display the overall covid details as given below.
+![Image description](https://i1.faceprep.in/ProGrad/l6.coronatracker2.png)
 
-### PROGRESSION 2 | LOAD IT TO ME
-Create a `+` Button to call the search component. When the user enters the book to be searched, fetch the book based on the search parameter and display it.
+### PROGRESSION 3 | SEARCH
+Keep a search bar to find the particular state wise COVID tally.
+![Image description](https://i1.faceprep.in/ProGrad/l6.coronatracker1.png)
 
-### PROGRESSION 3 | BOOK BOOK BOOK
-The bookcomponent has a button with 4 options
-- Read
-- Like
-- Dislike
-- Delete
+### PROGRESSION 3 | STATE WISE
+Display the statewise covid details.
+![Image description](https://i1.faceprep.in/ProGrad/l6.coronatracker3.png)
 
-Based on the user selected value, render it in the home page and display it as per the selected value. Please refer the screenshot for reference.
+### PROGRESSION 4 | MEASURE THE RECOVERY RATIO
+Based on the `COVID ACTIVE CASES` and `RECOVERED CASES`. Find out the recovery ratio and display it at the side.
 
-### Bonus
-Display at the bottom the count of books that are read,liked,disliked and deleted
+### PROGRESSION 5 | RANK BASED ON RECOVERY RATIO
+Based on the recovery ration sort the states.
+
+### BONUS | STYLING
+You are free to do a complete styling if you want.
 
 ## Submission
 
