@@ -1,0 +1,62 @@
+h1{
+  font-size: 30px;
+  font-weight: bolder;
+  color:black;
+  text-shadow: 2px 4px lightgrey;
+}
+.state{
+  margin-top:20px;
+  margin-left: 150px;
+  display: flex;
+  justify-self:center ;
+  padding-left:200px;
+}
+.box{
+  border: none;
+  box-shadow: 0px 4px 10px 5px rgb(0, 0,0,0.2) , 0px 4px 8px 2px rgb(0, 0, 0,0.19);
+  border-radius: 10px;
+  margin:30px;
+  text-align: center;
+  padding: 20px;
+}
+.confirm{
+  background-color:rgba(241, 87, 15, 0.767);
+  color:black;
+}
+.active{
+  background-color:rgb(40, 134, 241);
+  color:black;
+}
+.recover{
+  background-color:rgb(7, 250, 19);
+  color:black;
+}
+.infected{
+  background-color:rgb(253, 9, 9);
+  color:black;
+}
+label{
+  font-size: larger;
+  font-weight: bolder;
+}
+.search{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: 30px;
+  outline: none;
+  border: none;
+  box-shadow: 0px 4px 10px 5px rgb(0, 0,0,0.2) , 0px 4px 8px 2px rgb(0, 0, 0,0.19);
+  border-radius: 10px;
+  margin: 20px 0px 20px 10px;
+  padding-left: 10px;
+  font-size: 18px;
+}
+table,th,td{
+  border:0px solid black;
+  box-shadow: 0px 1px 3px 3px rgb(0, 0,0,0.2) , 0px 4px 8px 2px rgb(0, 0, 0,0.19);
+  border-radius: 1px;
+  padding:5px
+}
